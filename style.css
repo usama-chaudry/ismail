@@ -1,0 +1,40 @@
+.clr{
+    color: rgb(128,128,128);
+}
+.img{
+    height: 2rem;
+    width: 2rem;
+}
+.default{
+    font-size: 12px;
+}
+a{
+    color: white;
+}
+.ch{
+    height: 50%;
+}
+.se{
+    width: 4rem;
+    height: 4rem;
+
+
+}
+
+
+.far,.fas {
+    fill: orange;
+    color: orange;
+
+    
+}
+.gr{
+    height: 50%;
+    width: 100%;
+}
+.star{
+    font-size: 20px;
+}
+.btn-1{
+    width: 150%;
+}
